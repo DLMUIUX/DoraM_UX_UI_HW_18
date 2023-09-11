@@ -44,6 +44,11 @@ a:visited{
     text-decoration: none;
 }
 
+a:active{
+    color:#F55B09;
+    text-decoration: none;
+}
+
 
 /*************************************************************/
 /* Content - hero section                                    */
